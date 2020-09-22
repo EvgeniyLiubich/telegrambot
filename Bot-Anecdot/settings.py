@@ -1,0 +1,3 @@
+TG_TOKEN = '1246256068:AAHxFPr9qmZa6P2SJdb7-_ZMb2qjyE9R8E4'
+TG_API_URL = 'https://telegg.ru/orig/bot'
+WEATHER_KEY = '20b2a4b7362b244f91683b1a1504f0e9'
